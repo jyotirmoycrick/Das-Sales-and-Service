@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=permissions
+cargo:PERMISSION_FILES_PATH=C:\Users\ASUS\Downloads\project-bolt-sb1-5er75ep9\project\src-tauri\target\release\build\tauri-plugin-log-896c5d91e2ef4857\out\tauri-plugin-log-permission-files
+cargo:rerun-if-env-changed=REMOVE_UNUSED_COMMANDS
+cargo:GLOBAL_API_SCRIPT_PATH=\\?\C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tauri-plugin-log-2.7.0\api-iife.js
+cargo:rustc-check-cfg=cfg(mobile)
+cargo:rustc-check-cfg=cfg(desktop)
+cargo:rustc-cfg=desktop

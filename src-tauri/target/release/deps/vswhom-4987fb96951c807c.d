@@ -1,0 +1,7 @@
+C:\Users\ASUS\Downloads\project-bolt-sb1-5er75ep9\project\src-tauri\target\release\deps\vswhom-4987fb96951c807c.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\vswhom-0.1.0\src\lib.rs
+
+C:\Users\ASUS\Downloads\project-bolt-sb1-5er75ep9\project\src-tauri\target\release\deps\libvswhom-4987fb96951c807c.rlib: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\vswhom-0.1.0\src\lib.rs
+
+C:\Users\ASUS\Downloads\project-bolt-sb1-5er75ep9\project\src-tauri\target\release\deps\libvswhom-4987fb96951c807c.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\vswhom-0.1.0\src\lib.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\vswhom-0.1.0\src\lib.rs:
